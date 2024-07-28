@@ -20,7 +20,7 @@ To start using Backup Script, download 'backupScrit.bat' file in the 'windows' f
 It sets the base directory and target directory and after the specified time (in seconds), it makes a data copy to the target directory through powershell system. Data, that target directory received will be replaced after next backup. The process loops until user exits windows terminal. 
 
 # Future updates
-Software will have future updates (2024):
+Software will have future updates (2024/2025):
 - Linux compatibility
 - Mac|Os compatibility
 - GUI
