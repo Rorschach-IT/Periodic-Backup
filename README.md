@@ -4,7 +4,7 @@ I created a simple .bat file wrote in powershell (windows language), that makes 
 # Requirements
 - Windows 10, 8/8.1, 7, Vista, XP;
 - Older versions: Windows 2000, NT, ME, 98, 95
-- All Windows Server editions (2019, 2016, 2012, etc.)
+- All Windows Server editions (2022, 2019, 2016, 2012, etc.)
 
 # Install
 To start using Backup Script, download 'backupScript.bat' file in the 'v1.0' folder.
